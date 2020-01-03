@@ -32,5 +32,7 @@ public class output
         System.out.println("____________________________________________________________________");
         System.out.println("**********TIKET SELESAI DI PRINT**********");
         System.exit(0);
+        end obj = new end();
+        obj.end();
     }
 }
